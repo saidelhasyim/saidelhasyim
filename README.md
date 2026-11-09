@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Syaid El Hasyim 👋
 ### 📊 Data Analyst Enthusiast
 
