@@ -26,29 +26,6 @@ Passionate about transforming raw data into actionable insights through time-ser
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
 📫 **Let's Connect!**
 - 💼 **LinkedIn:** [linkedin.com/in/syaid-el-hasyim](https://linkedin.com)
 - ✉️ **Email:** syaidelhasyim@gmail.com
-
-<!--
-**saidelhasyim/saidelhasyim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
