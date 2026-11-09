@@ -1,5 +1,49 @@
 ## Hi there 👋
 
+# Hi there, I'm Syaid El Hasyim 👋
+### 📊 Data Analyst Enthusiast
+
+Passionate about transforming raw data into actionable insights through time-series analysis, interactive dashboards, and scalable data workflows. Focused on end-to-end data analytics—from data validation and cleaning to statistical metrics and business intelligence reporting.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Languages & Data Manipulation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data Visualization & Dashboards**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Core Expertise
+- **Time-Series Analysis & Data Imputation:** Handling missing values, evaluating dispersion metrics, and processing trend data.
+- **Data Validation & Transformation:** Merging disparate datasets, restructuring wide-to-long formats, and implementing automated validation queries.
+- **Operational & Recruitment Dashboards:** Building interactive monitoring systems, candidate analytics dashboards, and KPI tracking tools.
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+📫 **Let's Connect!**
+- 💼 **LinkedIn:** [linkedin.com/in/syaid-el-hasyim](https://linkedin.com)
+- ✉️ **Email:** syaidelhasyim@gmail.com
+
 <!--
 **saidelhasyim/saidelhasyim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +55,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
