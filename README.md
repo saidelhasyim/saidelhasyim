@@ -22,7 +22,7 @@ Passionate about transforming raw data into actionable insights through time-ser
 ### 📌 Core Expertise
 - **Data Validation & Transformation:** Merging disparate datasets, restructuring wide-to-long formats, and implementing automated validation logic.
 - **Operational & Candidate Dashboards:** Building interactive monitoring systems, recruitment analytics dashboards, and KPI tracking tools in Looker Studio and Excel/Sheets.
-- **Time-Series Analysis & Data Imputation:** Handling missing operational values, evaluating dispersion metrics, and analyzing trend data.
+- **Data Cleaning & Data Imputation:** Handling missing operational values and evaluating dispersion metrics.
 
 ---
 
